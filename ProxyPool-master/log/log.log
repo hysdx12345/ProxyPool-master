@@ -1,0 +1,274 @@
+2020-08-01 22:27:21,641 (SpawnPoolWorker-6 pid:7452) line-129  Tentacle <run> - [INFO] : Running Tentacle.
+2020-08-01 22:27:24,757 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:27:24,757 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:27:24,757 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:28:27,877 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:28:27,877 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:28:27,877 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:29:30,988 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:29:30,988 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:29:30,988 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:30:34,093 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:30:34,094 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:30:34,094 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:31:37,203 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:31:37,203 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:31:37,203 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:32:40,308 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:32:40,308 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:32:40,308 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:33:43,431 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:33:43,431 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:33:43,431 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:34:46,538 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:34:46,538 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:34:46,538 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:35:49,644 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:35:49,644 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:35:49,644 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:36:52,751 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:36:52,751 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:36:52,751 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:37:55,874 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:37:55,875 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:37:55,875 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:38:59,045 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:38:59,045 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:38:59,045 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:40:02,149 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:40:02,149 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:40:02,149 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:41:05,252 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:41:05,253 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:41:05,253 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:42:08,366 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:42:08,366 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:42:08,366 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:43:11,473 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:43:11,473 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:43:11,474 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:44:14,835 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:44:14,835 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:44:14,835 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:45:17,941 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:45:17,941 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:45:17,942 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:46:21,047 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:46:21,047 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:46:21,047 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:47:24,155 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:47:24,155 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:47:24,155 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:48:27,287 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:48:27,287 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:48:27,287 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:49:30,394 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:49:30,394 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:49:30,394 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:50:33,505 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:50:33,505 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:50:33,505 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:51:36,611 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:51:36,611 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:51:36,611 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:52:39,718 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:52:39,718 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:52:39,718 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:53:42,842 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:53:42,842 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:53:42,843 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:54:45,949 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:54:45,949 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:54:45,949 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:55:49,055 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:55:49,055 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:55:49,055 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:56:52,165 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:56:52,165 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:56:52,165 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:57:55,299 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:57:55,299 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:57:55,299 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 22:58:58,421 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 22:58:58,421 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 22:58:58,421 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:00:01,705 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:00:01,705 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:00:01,705 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:01:04,811 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:01:04,811 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:01:04,811 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:02:07,921 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:02:07,921 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:02:07,921 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:03:11,029 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:03:11,029 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:03:11,029 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:04:14,155 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:04:14,155 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:04:14,155 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:05:17,268 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:05:17,268 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:05:17,268 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:06:20,377 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:06:20,377 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:06:20,377 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:07:23,485 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:07:23,485 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:07:23,485 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:08:26,608 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:08:26,608 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:08:26,608 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:09:29,711 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:09:29,711 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:09:29,711 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:10:32,814 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:10:32,815 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:10:32,815 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:11:35,923 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:11:35,924 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:11:35,924 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:12:39,037 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:12:39,038 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:12:39,038 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:13:42,169 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:13:42,169 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:13:42,169 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:14:45,276 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:14:45,276 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:14:45,276 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:15:48,390 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:15:48,390 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:15:48,390 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:16:51,497 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:16:51,497 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:16:51,497 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:17:54,621 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:17:54,622 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:17:54,622 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:18:57,736 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:18:57,736 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:18:57,736 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:20:00,841 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:20:00,841 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:20:00,841 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:21:03,953 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:21:03,953 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:21:03,953 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:22:07,060 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:22:07,060 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:22:07,060 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:23:10,184 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:23:10,184 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:23:10,184 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:24:13,286 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:24:13,286 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:24:13,286 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:25:16,394 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:25:16,394 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:25:16,394 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:26:19,500 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:26:19,500 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:26:19,500 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:27:22,607 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:27:22,607 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:27:22,607 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:28:25,728 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:28:25,728 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:28:25,728 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:29:28,843 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:29:28,843 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:29:28,843 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:30:31,950 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:30:31,950 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:30:31,950 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:31:35,060 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:31:35,060 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:31:35,060 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:32:38,167 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:32:38,167 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:32:38,167 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:33:41,289 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:33:41,289 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:33:41,290 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:34:44,412 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:34:44,412 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:34:44,412 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:35:47,518 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:35:47,518 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:35:47,518 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:36:50,628 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:36:50,628 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:36:50,628 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:37:53,748 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:37:53,748 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:37:53,748 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:38:56,869 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:38:56,869 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:38:56,869 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:39:59,977 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:39:59,977 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:39:59,977 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:41:03,090 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:41:03,090 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:41:03,090 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:42:06,196 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:42:06,196 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:42:06,196 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:43:09,324 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:43:09,325 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:43:09,325 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:44:12,434 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:44:12,435 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:44:12,435 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:45:15,553 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:45:15,553 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:45:15,553 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:46:18,675 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:46:18,675 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:46:18,676 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:47:21,793 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:47:21,793 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:47:21,793 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:48:24,911 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:48:24,911 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:48:24,911 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:49:28,018 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:49:28,018 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:49:28,018 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:50:31,124 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:50:31,124 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:50:31,124 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:51:34,235 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:51:34,235 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:51:34,235 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:52:37,338 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:52:37,338 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:52:37,338 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:53:40,454 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:53:40,454 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:53:40,454 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:54:43,561 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:54:43,561 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:54:43,561 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:55:46,669 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:55:46,669 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:55:46,669 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:56:49,776 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:56:49,777 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:56:49,777 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:57:52,897 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:57:52,897 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:57:52,897 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:58:56,020 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:58:56,020 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:58:56,020 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-01 23:59:59,127 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-01 23:59:59,127 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-01 23:59:59,127 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-02 00:01:02,235 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-02 00:01:02,235 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-02 00:01:02,235 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0
+2020-08-02 00:02:05,341 (SpawnPoolWorker-6 pid:7452) line-79  Tentacle <load_target_db> - [INFO] : Loaded 0 proxies from db: acfun_cn 
+2020-08-02 00:02:05,342 (SpawnPoolWorker-6 pid:7452) line-141  Tentacle <run> - [INFO] : Start the validation of the target url:http://www.acfun.cn/
+2020-08-02 00:02:05,342 (SpawnPoolWorker-6 pid:7452) line-149  Tentacle <run> - [INFO] : Target url:http://www.acfun.cn/ -> validation finished,total proxies:0

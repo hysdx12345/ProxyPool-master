@@ -1,0 +1,1 @@
+2020-08-01 22:27:24,740 (SpawnPoolWorker-2 pid:5960) line-47  Collector <nyloner> - [ERROR] : Error class : <class 'KeyError'> , msg : "name='sessionid', domain=None, path=None" 
